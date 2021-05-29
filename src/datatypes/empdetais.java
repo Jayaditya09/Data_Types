@@ -7,12 +7,12 @@ public class empdetais {
 	public static void main(String[] args) {
 		Scanner m = new Scanner(System.in);
 		byte empId = 90;
-        String empName = "aditya";
+        String empName = "Mahesh";
         String empEmail ="b.jayadtya@gmail.com";
-        long empPhoneno = 8008316863l;
+        long empPhoneno = 8096956724;
         float empSalary = 4000.45f;
         char empGender='M';
-        String empCity="Chennai";
+        String empCity="Tirupathi";
         
         System.out.println("Id is "+empId);
         System.out.println("Name is "+empName);
