@@ -2,12 +2,12 @@ package datatypes;
 
 import java.util.Scanner;
 
-public class empdetais {
+public class Comapanydetails {
 
 	public static void main(String[] args) {
 		Scanner m = new Scanner(System.in);
 		byte empId = 90;
-        String empName = "Mahesh";
+        String empName = "Aditya";
         String empEmail ="b.jayadtya@gmail.com";
         long empPhoneno = 809695674;
         float empSalary = 4000.45f;
@@ -25,9 +25,7 @@ public class empdetais {
         for(int i=0;i<10;i++) {
         	System.out.println(i);
         }
-       
+
 	}
-	
-	
 
 }
